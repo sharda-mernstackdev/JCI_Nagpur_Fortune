@@ -1,0 +1,50 @@
+.main-header {
+  display: flex;
+  flex-direction: column; /* Stack header components vertically */
+}
+
+.header-lower {
+  display: flex;
+  justify-content: space-between; /* Space between logo and navigation */
+  align-items: center; /* Center items vertically */
+  padding: 1rem; /* Add some padding for spacing */
+}
+
+.logo {
+  flex: 0 0 auto; /* Prevent logo from shrinking */
+}
+
+.right-col {
+  flex: 1; /* Allow the right column to grow */
+}
+
+.main-menu {
+  display: flex; /* Use flex for horizontal layout */
+  justify-content: flex-end; /* Align menu items to the right */
+}
+
+.nav-item {
+  margin-left: 1rem; /* Add space between nav items */
+}
+
+
+.offcanvas-body {
+  display: flex;
+  flex-direction: column; /* Stack offcanvas items vertically */
+}
+
+.scroll-to-top {
+  position: fixed; /* Position fixed for scroll-to-top button */
+  bottom: 20px; /* Adjust position */
+  right: 20px; /* Adjust position */
+}
+
+
+@media (max-width: 768px) {
+  .header-lower {
+      flex-direction: column; /* Stack items vertically on smaller screens */
+  }
+}
+a {
+  text-decoration: none !important;
+}

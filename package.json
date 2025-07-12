@@ -1,0 +1,68 @@
+{
+  "name": "jci-nagpur-fortune",
+  "version": "0.1.0",
+  "private": true,
+  "home": "http://www.jcinagpurfortune.in/",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "file-saver": "^2.0.5",
+    "motion": "^12.4.7",
+    "popper.js": "^1.16.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18.3.1",
+    "react-ga": "^3.3.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^6.29.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
+    "react-snap": "^1.23.0",
+    "reactstrap": "^9.2.3",
+    "sitemap": "^8.0.0",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.4",
+    "webp-converter": "^2.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+     "generate:sitemap": "node generate-sitemap.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "image-webpack-loader": "^8.1.0",
+    "style-loader": "^4.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

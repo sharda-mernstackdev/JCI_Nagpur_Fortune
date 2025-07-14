@@ -83,6 +83,26 @@ const ImageTabs = () => {
     all: [
       // first
       {
+        src: "images/gallery/Tree Plantation/tree4.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
+      {
+        src: "images/gallery/Tree Plantation/tree3.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
+      {
+        src: "images/gallery/Tree Plantation/tree2.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
+       {
+        src: "images/gallery/Tree Plantation/tree1.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
+      {
         src: "images/eventimages/shiftgeartraining1.png",
         alt: "Shift your Gear Training",
         text: "Shift your Gear Training 2025",
@@ -881,6 +901,26 @@ const ImageTabs = () => {
 
     Community: [
       // fisrt image
+      {
+        src: "images/gallery/Tree Plantation/tree4.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
+      {
+        src: "images/gallery/Tree Plantation/tree3.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
+      {
+        src: "images/gallery/Tree Plantation/tree2.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
+      {
+        src: "images/gallery/Tree Plantation/tree1.png ",
+        alt: "Tree Plantation",
+        text: "Tree Plantation 2025",
+      },
       {
         src: "images/gallery/Yoga Day/yogaday1.png ",
         alt: "Yoga Day Celebration",

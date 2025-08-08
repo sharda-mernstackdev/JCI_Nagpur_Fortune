@@ -83,6 +83,16 @@ const ImageTabs = () => {
     all: [
       // first
       {
+        src: "images/eventimages/suit2.png",
+        alt: "Suit Up, skill up Training",
+        text: "Suit Up, Skill Up Training 2025",
+      },
+      {
+        src: "images/eventimages/suit1.png",
+        alt: "Suit Up, skill up Training",
+        text: "Suit Up, Skill Up Training 2025",
+      },
+      {
         src: "images/gallery/Tree Plantation/tree4.png ",
         alt: "Tree Plantation",
         text: "Tree Plantation 2025",
@@ -666,6 +676,26 @@ const ImageTabs = () => {
 
     training: [
       // fist image\
+      {
+        src: "images/eventimages/suit2.png",
+        alt: "Suit Up, skill up Training",
+        text: "Suit Up, Skill Up Training 2025",
+      },
+      {
+        src: "images/eventimages/suit1.png",
+        alt: "Suit Up, skill up Training",
+        text: "Suit Up, Skill Up Training 2025",
+      },
+      {
+        src: "images/eventimages/shiftgeartraining1.png",
+        alt: "Shift your Gear Training",
+        text: "Shift your Gear Training 2025",
+      },
+      {
+        src: "images/eventimages/shiftgeartraining2.png",
+        alt: "Shift your Gear Training",
+        text: "Shift your Gear Training 2025",
+      },
        {
         src: "images/eventimages/communicationskillday72.png",
         alt: "Communication skills training",

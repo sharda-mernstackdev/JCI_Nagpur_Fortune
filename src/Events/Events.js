@@ -23,7 +23,52 @@ const ImageTabs = () => {
 
   const images = {
     all: [
-         {
+      {
+        src: "images/zone-events/pal3.png",
+        alt: "Parliamentarian 2025",
+        text: "Parliamentarian 2025",
+      },
+      {
+        src: "images/zone-events/pal2.png",
+        alt: "Parliamentarian 2025",
+        text: "Parliamentarian 2025",
+      },
+      {
+        src: "images/zone-events/pal1.png",
+        alt: "Parliamentarian 2025",
+        text: "Parliamentarian 2025",
+      },
+       {
+        src: "images/zone-events/rr3.png",
+        alt: "Review 2 React 2025",
+        text: "Review 2 React 2025",
+      },
+      {
+        src: "images/zone-events/rr2.png",
+        alt: "Review 2 React 2025",
+        text: "Review 2 React 2025",
+      },
+      {
+        src: "images/zone-events/rr1.png",
+        alt: "Review 2 React 2025",
+        text: "Review 2 React 2025",
+      },
+      {
+        src: "images/zone-events/ztws3.png",
+        alt: "ZTWS 2025",
+        text: "ZTWS 2025",
+      },
+      {
+        src: "images/zone-events/ztws1.png",
+        alt: "ZTWS 2025",
+        text: "ZTWS 2025",
+      },
+      {
+        src: "images/zone-events/ztws2.png",
+        alt: "ZTWS 2025",
+        text: "ZTWS 2025",
+      },
+      {
         src: "images/zone-events/midcon4.png",
         alt: "Zonefare Midcon 2025",
         text: "Zonefare Midcon 2025",
@@ -72,6 +117,51 @@ const ImageTabs = () => {
       },
     ],
     zoneevents: [
+      {
+        src: "images/zone-events/pal3.png",
+        alt: "Parliamentarian 2025",
+        text: "Parliamentarian 2025",
+      },
+      {
+        src: "images/zone-events/pal2.png",
+        alt: "Parliamentarian 2025",
+        text: "Parliamentarian 2025",
+      },
+      {
+        src: "images/zone-events/pal1.png",
+        alt: "Parliamentarian 2025",
+        text: "Parliamentarian 2025",
+      },
+      {
+        src: "images/zone-events/rr3.png",
+        alt: "Review 2 React 2025",
+        text: "Review 2 React 2025",
+      },
+      {
+        src: "images/zone-events/rr2.png",
+        alt: "Review 2 React 2025",
+        text: "Review 2 React 2025",
+      },
+      {
+        src: "images/zone-events/rr1.png",
+        alt: "Review 2 React 2025",
+        text: "Review 2 React 2025",
+      },
+      {
+        src: "images/zone-events/ztws3.png",
+        alt: "ZTWS 2025",
+        text: "ZTWS 2025",
+      },
+      {
+        src: "images/zone-events/ztws1.png",
+        alt: "ZTWS 2025",
+        text: "ZTWS 2025",
+      },
+      {
+        src: "images/zone-events/ztws2.png",
+        alt: "ZTWS 2025",
+        text: "ZTWS 2025",
+      },
        {
         src: "images/zone-events/midcon4.png",
         alt: "Zonefare Midcon 2025",

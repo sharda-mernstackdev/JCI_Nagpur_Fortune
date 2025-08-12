@@ -82,6 +82,16 @@ const ImageTabs = () => {
   const images = {
     all: [
       // first
+     {
+        src: "images/eventimages/stra2.png",
+        alt: "Strategic Decision Making Training",
+        text: "Strategic Decision Making Training 2025",
+      },
+      {
+        src: "images/eventimages/stra1.png",
+        alt: "Strategic Decision Making Training",
+        text: "Strategic Decision Making Training 2025",
+      },
       {
         src: "images/eventimages/suit2.png",
         alt: "Suit Up, skill up Training",
@@ -676,6 +686,16 @@ const ImageTabs = () => {
 
     training: [
       // fist image\
+          {
+        src: "images/eventimages/stra2.png",
+        alt: "Strategic Decision Making Training",
+        text: "Strategic Decision Making Training 2025",
+      },
+      {
+        src: "images/eventimages/stra1.png",
+        alt: "Strategic Decision Making Training",
+        text: "Strategic Decision Making Training 2025",
+      },
       {
         src: "images/eventimages/suit2.png",
         alt: "Suit Up, skill up Training",

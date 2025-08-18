@@ -82,6 +82,26 @@ const ImageTabs = () => {
   const images = {
     all: [
       // first
+       {
+        src: "images/gallery/Independence Day/ind4.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
+       {
+        src: "images/gallery/Independence Day/ind3.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
+      {
+        src: "images/gallery/Independence Day/ind2.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
+      {
+        src: "images/gallery/Independence Day/ind1.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
      {
         src: "images/eventimages/stra2.png",
         alt: "Strategic Decision Making Training",
@@ -951,6 +971,26 @@ const ImageTabs = () => {
 
     Community: [
       // fisrt image
+      {
+        src: "images/gallery/Independence Day/ind4.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
+      {
+        src: "images/gallery/Independence Day/ind3.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
+      {
+        src: "images/gallery/Independence Day/ind2.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
+      {
+        src: "images/gallery/Independence Day/ind1.png",
+        alt: "Independence Day Celebration",
+        text: "Independence Day Celebration 2025",
+      },
       {
         src: "images/gallery/Tree Plantation/tree4.png ",
         alt: "Tree Plantation",

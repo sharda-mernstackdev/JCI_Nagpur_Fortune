@@ -24,6 +24,31 @@ const ImageTabs = () => {
   const images = {
     all: [
       {
+        src: "images/eventimages/nal5.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+        {
+        src: "images/eventimages/nal3.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+        {
+        src: "images/eventimages/nal4.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+       {
+        src: "images/eventimages/nal2.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+       {
+        src: "images/eventimages/nal1.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+      {
         src: "images/zone-events/pal3.png",
         alt: "Parliamentarian 2025",
         text: "Parliamentarian 2025",
@@ -110,6 +135,31 @@ const ImageTabs = () => {
       },
     ],
     nationalevents: [
+      {
+        src: "images/eventimages/nal5.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+        {
+        src: "images/eventimages/nal3.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+       {
+        src: "images/eventimages/nal4.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+      {
+        src: "images/eventimages/nal2.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
+      {
+        src: "images/eventimages/nal1.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
       {
         src: "images/eventimages/PA.png",
         alt: "Presidential Academy",

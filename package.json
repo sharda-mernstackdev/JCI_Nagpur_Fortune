@@ -2,7 +2,7 @@
   "name": "jci-nagpur-fortune",
   "version": "0.1.0",
   "private": true,
-  "home": "http://www.jcinagpurfortune.in/",
+  "homepage": "http://www.jcinagpurfortune.in/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",

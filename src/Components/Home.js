@@ -249,7 +249,7 @@ function Index() {
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img
-                src="images/main-slider/7.webp"
+                src="images/main-slider/1.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -272,7 +272,7 @@ function Index() {
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/6.webp"
+                src="images/main-slider/2.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -294,7 +294,7 @@ function Index() {
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/5.webp"
+                src="images/main-slider/3.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -316,7 +316,7 @@ function Index() {
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/8.webp"
+                src="images/main-slider/4.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -338,7 +338,7 @@ function Index() {
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/9.webp"
+                src="images/main-slider/5.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -360,7 +360,7 @@ function Index() {
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/1.webp"
+                src="images/main-slider/6.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -382,7 +382,7 @@ function Index() {
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/2.webp"
+                src="images/main-slider/7.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024 "
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -404,7 +404,7 @@ function Index() {
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/3.webp"
+                src="images/main-slider/8.png"
                 alt="JCI Speech Craft 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -427,7 +427,7 @@ function Index() {
             {/* New Images */}
             <div className="carousel-item">
               <img
-                src="images/main-slider/4.webp"
+                src="images/main-slider/9.png"
                 alt="CAPP Training"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}

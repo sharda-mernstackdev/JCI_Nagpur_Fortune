@@ -82,6 +82,66 @@ const ImageTabs = () => {
   const images = {
     all: [
       // first
+      {
+        src: "images/eventimages/youth3.png",
+        alt: "Empowering Youth Training",
+        text: "Empowering Youth Training 2025",
+      },
+      {
+        src: "images/eventimages/youth2.png",
+        alt: "Empowering Youth Training",
+        text: "Empowering Youth Training 2025",
+      },
+       {
+        src: "images/eventimages/youth1.png",
+        alt: "Empowering Youth Training",
+        text: "Empowering Youth Training 2025",
+      },
+      {
+        src: "images/eventimages/mange2.png",
+        alt: "No More Drama (Conflict Management) Training",
+        text: "No More Drama (Conflict Management) Training 2025",
+      },
+       {
+        src: "images/eventimages/mange1.png",
+        alt: "No More Drama (Conflict Management) Training",
+        text: "No More Drama (Conflict Management) Training 2025",
+      },
+      {
+        src: "images/eventimages/work3.png",
+        alt: "The Future of Work and Workforce Transformation Training",
+        text: "The Future of Work and Workforce Transformation Training 2025",
+      },
+      {
+        src: "images/eventimages/work2.png",
+        alt: "The Future of Work and Workforce Transformation Training",
+        text: "The Future of Work and Workforce Transformation Training 2025",
+      },
+      {
+        src: "images/eventimages/work1.png",
+        alt: "The Future of Work and Workforce Transformation Training",
+        text: "The Future of Work and Workforce Transformation Training 2025",
+      },
+       {
+        src: "images/eventimages/Int2.png",
+        alt: "Interpersonal Relationship Training",
+        text: "Interpersonal Relationship Training 2025",
+      },
+      {
+        src: "images/eventimages/Int1.png",
+        alt: "Interpersonal Relationship Training",
+        text: "Interpersonal Relationship Training 2025",
+      },
+      {
+        src: "images/eventimages/emp2.png",
+        alt: "Presenting Empowering Youth Topic Communication skills Training",
+        text: "Presenting Empowering Youth Topic Communication skills Training 2025",
+      },
+       {
+        src: "images/eventimages/emp1.png",
+        alt: "Presenting Empowering Youth Topic Communication skills Training",
+        text: "Presenting Empowering Youth Topic Communication skills Training 2025",
+      },
        {
         src: "images/gallery/Independence Day/ind4.png",
         alt: "Independence Day Celebration",
@@ -706,7 +766,67 @@ const ImageTabs = () => {
 
     training: [
       // fist image\
-          {
+      {
+        src: "images/eventimages/youth3.png",
+        alt: "Empowering Youth Training",
+        text: "Empowering Youth Training 2025",
+      },
+      {
+        src: "images/eventimages/youth2.png",
+        alt: "Empowering Youth Training",
+        text: "Empowering Youth Training 2025",
+      },
+      {
+        src: "images/eventimages/youth1.png",
+        alt: "Empowering Youth Training",
+        text: "Empowering Youth Training 2025",
+      },
+      {
+        src: "images/eventimages/mange2.png",
+        alt: "No More Drama (Conflict Management) Training",
+        text: "No More Drama (Conflict Management) Training 2025",
+      },
+      {
+        src: "images/eventimages/mange1.png",
+        alt: "No More Drama (Conflict Management) Training",
+        text: "No More Drama (Conflict Management) Training 2025",
+      },
+      {
+        src: "images/eventimages/work3.png",
+        alt: "The Future of Work and Workforce Transformation Training",
+        text: "The Future of Work and Workforce Transformation Training 2025",
+      },
+      {
+        src: "images/eventimages/work2.png",
+        alt: "The Future of Work and Workforce Transformation Training",
+        text: "The Future of Work and Workforce Transformation Training 2025",
+      },
+      {
+        src: "images/eventimages/work1.png",
+        alt: "The Future of Work and Workforce Transformation Training",
+        text: "The Future of Work and Workforce Transformation Training 2025",
+      },
+      {
+        src: "images/eventimages/Int2.png",
+        alt: "Interpersonal Relationship Training",
+        text: "Interpersonal Relationship Training 2025",
+      },
+      {
+        src: "images/eventimages/Int1.png",
+        alt: "Interpersonal Relationship Training",
+        text: "Interpersonal Relationship Training 2025",
+      },
+      {
+        src: "images/eventimages/emp2.png",
+        alt: "Presenting Empowering Youth Topic Communication skills Training",
+        text: "Presenting Empowering Youth Topic Communication skills Training 2025",
+      },
+      {
+        src: "images/eventimages/emp1.png",
+        alt: "Presenting Empowering Youth Topic Communication skills Training",
+        text: "Presenting Empowering Youth Topic Communication skills Training 2025",
+      },
+      {
         src: "images/eventimages/stra2.png",
         alt: "Strategic Decision Making Training",
         text: "Strategic Decision Making Training 2025",

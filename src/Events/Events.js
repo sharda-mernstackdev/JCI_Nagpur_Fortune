@@ -24,6 +24,96 @@ const ImageTabs = () => {
   const images = {
     all: [
       {
+        src: "images/zone-events/Zone 2026/Midcon 2026 (21 June)/Midcon 2026 1.webp",
+        alt: "Midcon 2026",
+        text: "Midcon 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Midcon 2026 (21 June)/Midcon 2026 2.webp",
+        alt: "Midcon 2026",
+        text: "Midcon 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Midcon 2026 (21 June)/Midcon 2026 3.webp",
+        alt: "Midcon 2026",
+        text: "Midcon 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/NP Visit To JCI Zone 9 (2 June)/NP Visit 1.webp",
+        alt: "NP Visit 2026",
+        text: "NP Visit 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/NP Visit To JCI Zone 9 (2 June)/NP Visit 2.webp",
+        alt: "NP Visit 2026",
+        text: "NP Visit 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/NP Visit To JCI Zone 9 (2 June)/NP Visit 3.webp",
+        alt: "NP Visit 2026",
+        text: "NP Visit 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Leadership Redefined (17 May)/Leadership Redefined 1.webp",
+        alt: "Leadership Redefined Training 2026",
+        text: "Leadership Redefined Training 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Leadership Redefined (17 May)/Leadership Redefined 2.webp",
+        alt: "Leadership Redefined Training 2026",
+        text: "Leadership Redefined Training 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Leadership Redefined (17 May)/Leadership Redefined 3.webp",
+        alt: "Leadership Redefined Training 2026",
+        text: "Leadership Redefined Training 2026",
+      },
+        {
+        src: "images/eventimages/2026/jcom1.webp",
+        alt: "JCOM Coach Training 2026",
+        text: "JCOM Coach Training 2026",
+      },
+      {
+        src: "images/eventimages/2026/jcom2.webp",
+        alt: "JCOM Coach Training 2026",
+        text: "JCOM Coach Training 2026",
+      },
+      {
+        src: "images/eventimages/2026/jcom.webp",
+        alt: "JCOM Coach Training 2026",
+        text: "JCOM Coach Training 2026",
+      },
+       {
+        src: "images/eventimages/2026/capp2.webp",
+        alt: "CAPP 2026",
+        text: "CAPP 2026",
+      },
+      {
+        src: "images/eventimages/2026/capp1.webp",
+        alt: "CAPP 2026",
+        text: "CAPP 2026",
+      },
+       {
+        src: "images/eventimages/2026/LOTS 2026.webp",
+        alt: "LOTS 2026",
+        text: "LOTS 2026",
+      },
+          {
+        src: "images/eventimages/PA 2026/3.png",
+        alt: "Presidential Academy 2026",
+        text: "Presidential Academy 2026",
+      },
+       {
+        src: "images/eventimages/PA 2026/2.png",
+        alt: "Presidential Academy 2026",
+        text: "Presidential Academy 2026",
+      },
+        {
+        src: "images/eventimages/PA 2026/1.png",
+        alt: "Presidential Academy 2026",
+        text: "Presidential Academy 2026",
+      },
+      {
         src: "images/eventimages/nal5.png",
         alt: "NALANDA 2025",
         text: "NALANDA 2025",
@@ -135,6 +225,26 @@ const ImageTabs = () => {
       },
     ],
     nationalevents: [
+       {
+        src: "images/eventimages/PA 2026/3.png",
+        alt: "Presidential Academy 2026",
+        text: "Presidential Academy 2026",
+      },
+       {
+        src: "images/eventimages/PA 2026/2.png",
+        alt: "Presidential Academy 2026",
+        text: "Presidential Academy 2026",
+      },
+       {
+        src: "images/eventimages/PA 2026/1.png",
+        alt: "Presidential Academy 2026",
+        text: "Presidential Academy 2026",
+      },
+      {
+        src: "images/eventimages/nal5.png",
+        alt: "NALANDA 2025",
+        text: "NALANDA 2025",
+      },
       {
         src: "images/eventimages/nal5.png",
         alt: "NALANDA 2025",
@@ -167,6 +277,81 @@ const ImageTabs = () => {
       },
     ],
     zoneevents: [
+      {
+        src: "images/zone-events/Zone 2026/Midcon 2026 (21 June)/Midcon 2026 1.webp",
+        alt: "Midcon 2026",
+        text: "Midcon 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Midcon 2026 (21 June)/Midcon 2026 2.webp",
+        alt: "Midcon 2026",
+        text: "Midcon 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Midcon 2026 (21 June)/Midcon 2026 3.webp",
+        alt: "Midcon 2026",
+        text: "Midcon 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/NP Visit To JCI Zone 9 (2 June)/NP Visit 1.webp",
+        alt: "NP Visit 2026",
+        text: "NP Visit 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/NP Visit To JCI Zone 9 (2 June)/NP Visit 2.webp",
+        alt: "NP Visit 2026",
+        text: "NP Visit 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/NP Visit To JCI Zone 9 (2 June)/NP Visit 3.webp",
+        alt: "NP Visit 2026",
+        text: "NP Visit 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Leadership Redefined (17 May)/Leadership Redefined 1.webp",
+        alt: "Leadership Redefined Training 2026",
+        text: "Leadership Redefined Training 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Leadership Redefined (17 May)/Leadership Redefined 2.webp",
+        alt: "Leadership Redefined Training 2026",
+        text: "Leadership Redefined Training 2026",
+      },
+      {
+        src: "images/zone-events/Zone 2026/Leadership Redefined (17 May)/Leadership Redefined 3.webp",
+        alt: "Leadership Redefined Training 2026",
+        text: "Leadership Redefined Training 2026",
+      },
+       {
+        src: "images/eventimages/2026/jcom1.webp",
+        alt: "JCOM Coach Training 2026",
+        text: "JCOM Coach Training 2026",
+      },
+      {
+        src: "images/eventimages/2026/jcom2.webp",
+        alt: "JCOM Coach Training 2026",
+        text: "JCOM Coach Training 2026",
+      },
+      {
+        src: "images/eventimages/2026/jcom.webp",
+        alt: "JCOM Coach Training 2026",
+        text: "JCOM Coach Training 2026",
+      },
+      {
+        src: "images/eventimages/2026/capp2.webp",
+        alt: "CAPP 2026",
+        text: "CAPP 2026",
+      },
+       {
+        src: "images/eventimages/2026/capp1.webp",
+        alt: "CAPP 2026",
+        text: "CAPP 2026",
+      },
+       {
+        src: "images/eventimages/2026/LOTS 2026.webp",
+        alt: "LOTS 2026",
+        text: "LOTS 2026",
+      },
       {
         src: "images/zone-events/pal3.png",
         alt: "Parliamentarian 2025",

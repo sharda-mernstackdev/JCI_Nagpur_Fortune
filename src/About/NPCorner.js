@@ -12,7 +12,7 @@ const schemaMarkup = {
   logo: "https://www.jcinagpurfortune.in/images/images/logo4.png",
   image: "https://www.jcinagpurfortune.in/images/logo.png",
   description: "Join JCI Nagpur Fortune to empower youth, develop leadership skills, and drive positive change in your community through impactful events, training, and social initiatives.",
-  keyword: "fortune, jci, jci nagpur, Best LO, jci LO, jci in Nagpur, jci  LO in Nagpur, Best jci LO in Nagpur, Best jci LO in India, Best jci LO in Maharashtra, Best JCI LO, jci in Maharashtra, jci Events in Nagpur, jci Leadership Training, jci Nagpur Projects,jci member,youthpower,empoweryouth,Youth Empowerment Organization,JCI Nagpur Fortune, JCI Nagpur Fortune social impact, JCI Nagpur Fortune networking, JCI Nagpur fortune leadership development, JCI Nagpur community service, JCI Nagpur fortune community,JCI Nagpur fortune chapter , JCI Nagpur fortune membership,JCI Nagpur fortune training programs, JCI chapters in Maharashtra,Youth organizations in Nagpur,Leadership training in Nagpur,Community development Nagpur,Professional networking Nagpur,Youth leadership Nagpur,Social entrepreneurship Nagpur,Youth empowerment programs Nagpur,Leadership skills development,Professional growth opportunities,Community impact initiatives,Young leaders network,Business skills for youth,Personal development organization,CI Nagpur workshops,JCI Nagpur training programs,JCI Nagpur conferences,JCI Nagpur seminars,JCI Nagpur community projects,JCI Nagpur youth programs,JCI Nagpur skill development,JCI Nagpur entrepreneurship programs",
+  keyword: "fortune, jci, jci nagpur, Best LO, jci LO, jci in Nagpur, jci  LO in Nagpur, Best jci LO in Nagpur, Best jci LO in India, Best jci LO in Maharashtra, Best JCI LO, jci in Maharashtra, jci Events in Nagpur, jci Leadership Training, jci Nagpur Projects,jci member,youthpower,empoweryouth,Youth Empowerment Organization,JCI Nagpur Fortune, JCI Nagpur Fortune social impact, JCI Nagpur Fortune networking, JCI Nagpur fortune leadership development, JCI Nagpur community service, JCI Nagpur fortune community,JCI Nagpur fortune chapter , JCI Nagpur fortune membership,JCI Nagpur fortune training programs, JCI chapters in Maharashtra,Youth organizations in Nagpur,Leadership training in Nagpur,Community development Nagpur,Professional networking Nagpur,Youth leadership Nagpur,Social entrepreneurship Nagpur,Youth empowerment programs Nagpur,Leadership skills development,Professional growth opportunities,Community impact initiatives,Young leaders network,Business skills for youth,Personal development organization,CI Nagpur workshops,JCI Nagpur training programs,JCI Nagpur conferences,JCI Nagpur seminars,JCI Nagpur community projects,JCI Nagpur youth programs,JCI Nagpur skill development,JCI Nagpur entrepreneurship programs, public speaking classes in Sitabuldi Nagpur, personality development classes in Sitabuldi Nagpur, communication skills training in Nagpur, confidence building classes in Nagpur, public speaking training for students in Nagpur, personality development course for professionals Nagpur, stage fear removal classes in Nagpur, soft skills training in Nagpur, spoken English and public speaking Nagpur, best public speaking institute in Nagpur",
 
   aggregateRating: {
     "@type": "AggregateRating",
@@ -145,15 +145,15 @@ function NPCorner() {
               <div className="video-column col-lg-6 col-md-12 col-sm-12">
                 <div className="inner-column">
                 <h3 className="national-president-heading">
-                    <span className="theme_color">National President</span>
+                    <span className="theme_color">Our National President</span>
                 </h3>
                   <figure>
                     <img
                       className="president-image"
-                      src="images/AboutJci/JFS ANKUR JHUNJHUNWALA.jpg"
-                      alt="JFS Ankur Jhunjhunwala - JCI India National President"
+                      src="images/AboutJci/JFG Bharath N Acharya.webp"
+                      alt="JFG Bharath N Acharya - JCI India National President"
                     />
-                     <figcaption className="president-caption">JFS Ankur Jhunjhunwala</figcaption>
+                     <figcaption className="president-caption">JFG Bharath N Acharya</figcaption>
                    </figure>
                 </div>
               </div>
@@ -162,27 +162,38 @@ function NPCorner() {
               <div className="content-column col-lg-6 col-md-12 col-sm-12">
                 <div className="inner-column">
                 <h3 className="national-president-message">
-                     <span className="theme_color">National President's Message</span>
+                     <span className="theme_color" >JFG Bharath N Acharya</span>
                 </h3>
 
                   <div className="text">
-                    <p style={{ textAlign: "justify" }}>Dear Jaycees of India,</p>
+                    <p style={{ textAlign: "justify" }}>My Dear Brothers and Sisters of JCI India,</p>
                     <p style={{ textAlign: "justify" }}>
-                      I am honored to address you as the National President of JCI India for the year 2025. As we stand
-                      at the threshold of a new era of leadership and service, I am filled with immense pride and
-                      anticipation for the journey that lies ahead.
+                    It is a pleasure to share my thoughts as we begin this new journey together. The year 2026 marks
+                     “The Year of Legacy Reimagined”—a time to raise our standards, redefine leadership, and showcase
+                      the true strength of JCI India.
                     </p>
                     <p style={{ textAlign: "justify" }}>
-                      Our mission at JCI is rooted in the belief that young people possess the power to effect positive
-                      change in their communities and beyond. It is this belief that drives our efforts to creating
-                      young leaders. We at JCI India will further our mission in 2025 with renewed energy and
-                      enthusiasm.
+                     To keep our organization vibrant, I encourage everyone to actively welcome new members and expand
+                      the JCI family. Let us also aim to make our mark globally by participating in international platforms
+                       like ASPAC and the World Congress, where we can learn, grow, and proudly represent India.
                     </p>
                     <p style={{ textAlign: "justify" }}>
-                      This year, as we set on our collective quest to make a difference, I urge each of you to embrace
-                      the spirit of gratitude in all that we do. Let us reflect on our blessings, acknowledge the
-                      contributions of others, and cultivate an attitude of appreciation that permeates every aspect of
-                      our lives and work.
+                    Our appearance and conduct matter. Wearing our JCI uniforms with pride and maintaining a professional
+                     presence reflects our discipline and attracts aspiring leaders. Let our meetings and projects be carried
+                      out with excellence and a distinctive style that sets us apart.
+                    </p>
+                     <p style={{ textAlign: "justify" }}>
+                   Service remains our core. I urge your wholehearted support for the JCI India Foundation to help needy children through scholarships. We will continue strengthening JCOM, engaging our Alumni, and focusing on impactful, large-scale projects that create lasting change.
+
+Remember, I stand with you—not just as your National President, but as your friend and partner in service. Let us LEAD with purpose, CONNECT with people, and EVOLVE for impact.
+                   </p>
+                
+                    <p style={{ textAlign: "justify" }}>
+                      <strong>JFG Bharath N Acharya</strong>
+                      <br />
+                      National President
+                      <br />
+                      JCI India
                     </p>
                   </div>
                 </div>
@@ -197,10 +208,10 @@ function NPCorner() {
                   <figure>
                     <img
                       className="president-logo"
-                      src="images/AboutJci/riseup.png"
+                      src="images/AboutJci/2026_JCI India Theme Logo.png"
                       alt="JCI India National President Logo - Rise Up"
                     />
-                       <figcaption className="theme-caption">Rise Up - 2025 Theme</figcaption>
+                       <figcaption className="theme-caption">Lead connect evolve - 2026 Theme</figcaption>
                  </figure>
                 </div>
               </div>
@@ -221,7 +232,7 @@ function NPCorner() {
                     </p>
                     <p style={{ textAlign: "justify" }}>Let us make a difference.</p>
                     <p style={{ textAlign: "justify" }}>
-                      <strong>JFS Ankur Jhunjhunwala</strong>
+                      <strong>JFG Bharath N Acharya</strong>
                       <br />
                       National President
                       <br />

@@ -13,7 +13,7 @@ const schemaMarkup = {
   description:
     "Join JCI Nagpur Fortune to empower youth and create positive change in your community",
   keyword:
-    "fortune, jci, jci nagpur, Best LO, jci LO, jci in Nagpur, jci  LO in Nagpur, Best jci LO in Nagpur, Best jci LO in India, Best jci LO in Maharashtra, Best JCI LO, jci in Maharashtra, jci Events in Nagpur, jci Leadership Training, jci Nagpur Projects,jci member,youthpower,empoweryouth,Youth Empowerment Organization,JCI Nagpur Fortune, JCI Nagpur Fortune social impact, JCI Nagpur Fortune networking, JCI Nagpur fortune leadership development, JCI Nagpur community service, JCI Nagpur fortune community,JCI Nagpur fortune chapter , JCI Nagpur fortune membership,JCI Nagpur fortune training programs, JCI chapters in Maharashtra,Youth organizations in Nagpur,Leadership training in Nagpur,Community development Nagpur,Professional networking Nagpur,Youth leadership Nagpur,Social entrepreneurship Nagpur,Youth empowerment programs Nagpur,Leadership skills development,Professional growth opportunities,Community impact initiatives,Young leaders network,Business skills for youth,Personal development organization,CI Nagpur workshops,JCI Nagpur training programs,JCI Nagpur conferences,JCI Nagpur seminars,JCI Nagpur community projects,JCI Nagpur youth programs,JCI Nagpur skill development,JCI Nagpur entrepreneurship programs",
+    "fortune, jci, jci nagpur, Best JCI Nagpur Fortune, JCI Nagpur, JCI events Nagpur, JCI training programs, JCI membership Nagpur, youth organization Nagpur, youth empowerment programs Nagpur, leadership training Nagpur, leadership development Nagpur, community development Nagpur, professional networking Nagpur, public speaking classes in Sitabuldi Nagpur, personality development classes in Sitabuldi Nagpur, communication skills training in Nagpur, confidence building classes in Nagpur, public speaking training for students in Nagpur, personality development course for professionals Nagpur, stage fear removal classes in Nagpur, soft skills training in Nagpur, spoken English and public speaking Nagpur, best public speaking institute in Nagpur, jci LO, jci in Nagpur, jci  LO in Nagpur, Best jci LO in Nagpur, Best jci LO in India, Best jci LO in Maharashtra, Best JCI LO, jci in Maharashtra, jci Events in Nagpur, jci Leadership Training, jci Nagpur Projects,jci member,youthpower,empoweryouth,Youth Empowerment Organization,JCI Nagpur Fortune, JCI Nagpur Fortune social impact, JCI Nagpur Fortune networking, JCI Nagpur fortune leadership development, JCI Nagpur community service, JCI Nagpur fortune community,JCI Nagpur fortune chapter , JCI Nagpur fortune membership,JCI Nagpur fortune training programs, JCI chapters in Maharashtra,Youth organizations in Nagpur,Leadership training in Nagpur,Community development Nagpur,Professional networking Nagpur,Youth leadership Nagpur,Social entrepreneurship Nagpur,Youth empowerment programs Nagpur,Leadership skills development,Professional growth opportunities,Community impact initiatives,Young leaders network,Business skills for youth,Personal development organization,CI Nagpur workshops,JCI Nagpur training programs,JCI Nagpur conferences,JCI Nagpur seminars,JCI Nagpur community projects,JCI Nagpur youth programs,JCI Nagpur skill development,JCI Nagpur entrepreneurship programs",
 
   aggregateRating: {
     "@type": "AggregateRating",
@@ -72,7 +72,7 @@ const counters = [
     icon: "flaticon-sketch",
     title: "Complete Projects",
     start: 0,
-    stop: 50,
+    stop: 70,
     speed: 2500,
   },
 ];
@@ -249,7 +249,7 @@ function Index() {
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img
-                src="images/main-slider/1.png"
+                src="images/main-slider/11.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -265,14 +265,14 @@ function Index() {
               >
                 <div className="text-start" style={{ paddingLeft: "15px" }}>
                   {/* Added H1 tag in carousel caption */}
-                  <h1 className="display-4 text-white shadow-text"></h1>
+                  {/* <h1 className="display-4 text-white shadow-text"></h1> */}
                 </div>
               </div>
             </div>
 
             <div className="carousel-item">
               <img
-                src="images/main-slider/2.png"
+                src="images/main-slider/12.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
                 className="d-block carousel-image"
                 style={{ width: "100%" }}
@@ -291,6 +291,54 @@ function Index() {
                 </div>
               </div>
             </div>
+
+
+
+            <div className="carousel-item">
+              <img
+                src="images/main-slider/13.png"
+                alt="JCI Zone 9 Dimond Zonecon 2024"
+                className="d-block carousel-image"
+                style={{ width: "100%" }}
+              />
+              <div
+                className="carousel-caption d-flex align-items-center"
+                style={{
+                  position: "absolute",
+                  bottom: "50%",
+                  left: "0",
+                  transform: "translateY(50%)",
+                }}
+              >
+                <div className="text-start" style={{ paddingLeft: "15px" }}>
+                  {/* Caption content */}
+                </div>
+              </div>
+            </div>
+
+            <div className="carousel-item">
+              <img
+                src="images/main-slider/1.png"
+                alt="JCI Zone 9 Dimond Zonecon 2024"
+                className="d-block carousel-image"
+                style={{ width: "100%" }}
+              />
+              <div
+                className="carousel-caption d-flex align-items-center"
+                style={{
+                  position: "absolute",
+                  bottom: "50%",
+                  left: "0",
+                  transform: "translateY(50%)",
+                }}
+              >
+                <div className="text-start" style={{ paddingLeft: "15px" }}>
+                  {/* Caption content */}
+                </div>
+              </div>
+            </div>
+
+           
 
             <div className="carousel-item">
               <img
@@ -309,7 +357,7 @@ function Index() {
                 }}
               >
                 <div className="text-start" style={{ paddingLeft: "15px" }}>
-                  {/* Caption content */}
+                  
                 </div>
               </div>
             </div>
@@ -336,7 +384,7 @@ function Index() {
               </div>
             </div>
 
-            <div className="carousel-item">
+            {/* <div className="carousel-item">
               <img
                 src="images/main-slider/5.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
@@ -353,12 +401,12 @@ function Index() {
                 }}
               >
                 <div className="text-start" style={{ paddingLeft: "15px" }}>
-                  {/* Caption content */}
+                
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="carousel-item">
+            {/* <div className="carousel-item">
               <img
                 src="images/main-slider/6.png"
                 alt="JCI Zone 9 Dimond Zonecon 2024"
@@ -373,12 +421,12 @@ function Index() {
                   left: "0",
                   transform: "translateY(50%)",
                 }}
-              >
+              >  
                 <div className="text-start" style={{ paddingLeft: "15px" }}>
-                  {/* Caption content */}
+                 
                 </div>
               </div>
-            </div>
+            </div> */}
 
             <div className="carousel-item">
               <img
@@ -751,8 +799,8 @@ function Index() {
                 >
                   <div className="image">
                     <img
-                      src="images/resource/president.jpg"
-                      alt="Mr.Prashant Kadhao"
+                      src="images/resource/Prashant_sir.webp"
+                      alt="Mr. Prashant Kadhao"
                     />
                   </div>
                 </div>
@@ -764,18 +812,20 @@ function Index() {
                   {/* Sec Title */}
                   <div className="sec-title light">
                     <h2>
-                      <span className="theme_color">Mr.Prashant Kadhao</span>
+                      <span className="theme_color">Mr. Prashant Kadhao</span>
                     </h2>
                     <div className="text">
                       <ul>
                         <li>
-                          <h4>Founder President Of JCI Nagpur Fortune</h4>
+                          <h5>Founder President & Mentor Of JCI Nagpur Fortune</h5> 
+                           <h5>Founder and Director Of PSK Technologies Pvt.LTD IT Company</h5>  
+                           <h5>Founder – BigZoom Podcast Studio</h5> 
                         </li>
                         <li>
-                          <h4>
+                          {/* <h4>
                             Founder and Director Of PSK Technologies Pvt.LTD IT
                             Company
-                          </h4>
+                          </h4> */}
                         </li>
                       </ul>
                     </div>
@@ -783,24 +833,15 @@ function Index() {
 
                   <div className="text">
                     <p align="justify">
-                      With over 17+ years of experience in the IT field and 13+
-                      years of successfully running his own company, Prashant is
-                      a expertize and certified in LINUX (RHCSA/RHEL), Microsoft
-                      technologies, and AWS Solutions,Computer solution and
-                      infrastructure. He has completed over 500 projects and
-                      facilitated the placement of more than 2000 interns in
-                      leading companies, showcasing his commitment to talent
-                      development. Prashant holds an MBA in Marketing and is a
-                      certified professional with credentials including BIZ XI,
-                      Speech Craft 2024, AOS 2024, EPS, and more. As a public
-                      speaker and self-mastery coach, he empowers individuals
-                      and supports interns in startups, focusing on personal and
-                      professional growth through mindset shifts and holistic
-                      well-being. In 2023, Prashant joined JCI, where he quickly
-                      rose to prominence, serving as VPPR and later as VPBO in
-                      2024. On September 25, 2024, he founded JCI Nagpur
-                      Fortune, where he currently serves as the Founder
-                      President, continuing his mission to inspire youth.
+                      With over 19+ years of experience in the IT field and 15+ years of successfully running his own company, Prashant is an expert and certified professional in LINUX (RHCSA/RHEL), Microsoft technologies, and AWS Solutions, Computer Solutions, and Infrastructure. He has completed over 500+ projects and facilitated the placement of more than 2000+ interns in leading companies, showcasing his commitment to talent development.
+
+                      Prashant holds an MBA in Marketing and is a certified professional with credentials including BIZ XI, Speech Craft 2024, AOS 2024, EPS, CAPP, ZTWS 2025, NALANDA Graduate 2025, and is also a Certified JCI India Zone Trainer, along with participation in NATCON and other prestigious programs.
+
+                      As a public speaker and self-mastery coach, he empowers individuals and supports interns in startups, focusing on personal and professional growth through mindset shifts and holistic well-being.
+
+                      In 2023, Prashant joined JCI, where he quickly rose to prominence, serving as VPPR and later as VPBO in 2024. On September 25, 2024, he founded JCI Nagpur Fortune, where he currently serves as the Founder President, continuing his mission to inspire youth.
+
+                      Currently, he serves as the Immediate Past President (IPP) & Mentor of JCI Nagpur Fortune, Zone 9 (2026), and is also contributing at the zonal level as Zone Director – Business Training (2026). He has also become a Certified JCI JCOM Business Coach (2026).
                     </p>
                   </div>
                 </div>

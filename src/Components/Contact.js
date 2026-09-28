@@ -11,7 +11,7 @@ const schemaMarkup = {
   "logo": "https://www.jcinagpurfortune.in/images/images/logo4.png",
   "image": "https://www.jcinagpurfortune.in/images/logo.png",
   description: "Join JCI Nagpur Fortune to empower youth, develop leadership skills, and drive positive change in your community through impactful events, training, and social initiatives.",
-  keyword: "fortune, jci, jci nagpur, Best LO, jci LO, jci in Nagpur, jci  LO in Nagpur, Best jci LO in Nagpur, Best jci LO in India, Best jci LO in Maharashtra, Best JCI LO, jci in Maharashtra, jci Events in Nagpur, jci Leadership Training, jci Nagpur Projects,jci member,youthpower,empoweryouth,Youth Empowerment Organization,JCI Nagpur Fortune, JCI Nagpur Fortune social impact, JCI Nagpur Fortune networking, JCI Nagpur fortune leadership development, JCI Nagpur community service, JCI Nagpur fortune community,JCI Nagpur fortune chapter , JCI Nagpur fortune membership,JCI Nagpur fortune training programs, JCI chapters in Maharashtra,Youth organizations in Nagpur,Leadership training in Nagpur,Community development Nagpur,Professional networking Nagpur,Youth leadership Nagpur,Social entrepreneurship Nagpur,Youth empowerment programs Nagpur,Leadership skills development,Professional growth opportunities,Community impact initiatives,Young leaders network,Business skills for youth,Personal development organization,CI Nagpur workshops,JCI Nagpur training programs,JCI Nagpur conferences,JCI Nagpur seminars,JCI Nagpur community projects,JCI Nagpur youth programs,JCI Nagpur skill development,JCI Nagpur entrepreneurship programs",
+  keyword: "JCI Nagpur Fortune, JCI Nagpur, JCI events Nagpur, JCI training programs, JCI membership Nagpur, youth organization Nagpur, youth empowerment programs Nagpur, leadership training Nagpur, leadership development Nagpur, community development Nagpur, professional networking Nagpur, social entrepreneurship Nagpur, business skills for youth, personal development organization, JCI Nagpur projects, JCI Nagpur seminars, JCI Nagpur conferences, communication skills training in Nagpur, public speaking classes in Sitabuldi Nagpur, personality development classes in Sitabuldi Nagpur, confidence building classes in Nagpur, soft skills training in Nagpur, stage fear removal classes in Nagpur, spoken English and public speaking Nagpur, best public speaking institute in Nagpur, best personality development institute in Nagpur, best confidence building institute in Nagpur, best soft skills training institute in Nagpur, best stage fear removal institute in Nagpur, best spoken English and public speaking institute in Nagpur",
 
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,7 +66,7 @@ function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
     const { name, email, phone, message } = formData;
-    const whatsappNumber = "919975288300";
+    const whatsappNumber = "919422123343";
     const whatsappMessage = `Name: ${name}\nEmail: ${email}\nPhone: ${phone}\nMessage: ${message}`;
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
       whatsappMessage
@@ -159,7 +159,7 @@ function Contact() {
                   <span className="icon flaticon-call"></span>
                 </div>
                 <h3>Phone:</h3>
-                <div className="text">+91-9975288300</div>
+                <div className="text">+91-9422123343</div>
               </div>
             </div>
 

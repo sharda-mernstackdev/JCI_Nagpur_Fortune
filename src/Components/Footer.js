@@ -14,7 +14,7 @@ const schemaMarkup = {
     "Join JCI Nagpur Fortune to empower youth, develop leadership skills, and drive positive change in your community through impactful events, training, and social initiatives.",
 
   keyword:
-    "fortune, jci, jci nagpur, Best LO, jci LO, jci in Nagpur, jci  LO in Nagpur, Best jci LO in Nagpur, Best jci LO in India, Best jci LO in Maharashtra, Best JCI LO, jci in Maharashtra, jci Events in Nagpur, jci Leadership Training, jci Nagpur Projects,jci member,youthpower,empoweryouth,Youth Empowerment Organization,JCI Nagpur Fortune, JCI Nagpur Fortune social impact, JCI Nagpur Fortune networking, JCI Nagpur fortune leadership development, JCI Nagpur community service, JCI Nagpur fortune community,JCI Nagpur fortune chapter , JCI Nagpur fortune membership,JCI Nagpur fortune training programs, JCI chapters in Maharashtra,Youth organizations in Nagpur,Leadership training in Nagpur,Community development Nagpur,Professional networking Nagpur,Youth leadership Nagpur,Social entrepreneurship Nagpur,Youth empowerment programs Nagpur,Leadership skills development,Professional growth opportunities,Community impact initiatives,Young leaders network,Business skills for youth,Personal development organization,CI Nagpur workshops,JCI Nagpur training programs,JCI Nagpur conferences,JCI Nagpur seminars,JCI Nagpur community projects,JCI Nagpur youth programs,JCI Nagpur skill development,JCI Nagpur entrepreneurship programs",
+    "JCI Nagpur Fortune, JCI Nagpur, JCI India organization, JCI events Nagpur, JCI leadership training Nagpur, JCI training programs, JCI membership Nagpur, youth organization Nagpur, youth empowerment programs Nagpur, leadership training Nagpur, leadership development Nagpur, community development Nagpur, professional networking Nagpur, social entrepreneurship Nagpur, business skills for youth, personal development organization, JCI Nagpur projects, JCI Nagpur seminars, JCI Nagpur conferences, JCI Nagpur community projects, JCI Nagpur youth programs, communication skills training in Nagpur, public speaking classes in Sitabuldi Nagpur, personality development classes in Sitabuldi Nagpur, confidence building classes in Nagpur, soft skills training in Nagpur, stage fear removal classes in Nagpur, spoken English and public speaking Nagpur, best public speaking institute in Nagpur",
 
   aggregateRating: {
     "@type": "AggregateRating",
@@ -94,7 +94,7 @@ function Footer() {
                   <div class="text">
                     JCI India is the Second largest Member Nation of Junior
                     Chamber International. Currently we are active in more than
-                    26 states and union territories across India.
+                    24 states and 3 union territories across India.
                   </div>
                   {/* <!--Social Box--> */}
                   <ul class="social-box">
@@ -139,12 +139,12 @@ function Footer() {
                     </li>
                     <li>
                       <h6>
-                        <a href="/aboutjci">About</a>
+                        <a href="/Aboutjci">About</a>
                       </h6>
                     </li>
                     <li>
                       <h6>
-                        <a href="/ourteam">Team</a>
+                        <a href="/OurTeam">Team</a>
                       </h6>
                     </li>
                     {/* <li>
@@ -155,17 +155,17 @@ function Footer() {
                   </li> */}
                     <li>
                       <h6>
-                        <a href="/gallery">LO Events</a>
+                        <a href="/Gallery">LO Events</a>
                       </h6>
                     </li>
                     <li>
                       <h6>
-                        <a href="/downloads">Downloads</a>
+                        <a href="/Downloads">Downloads</a>
                       </h6>
                     </li>
                     <li>
                       <h6>
-                        <a href="/contact">Contact</a>
+                        <a href="/Contact">Contact</a>
                       </h6>
                     </li>
                   </ul>
@@ -224,10 +224,10 @@ function Footer() {
                       {/* <span class="icon fas fa-phone"></span>Support:{" "} */}
                       <span class="icon fas fa-phone phone-icon"></span>Support:{" "}
                       <a
-                        href="tel:+91-9975288300"
+                        href="tel:+91-9422123343"
                         style={{ textDecoration: "none" }}
                       >
-                        +91-9975288300
+                        +91-9422123343
                       </a>
                     </li>
                     <li>
@@ -270,7 +270,7 @@ function Footer() {
             <div class="clearfix">
               <div class="pull-left">
                 <div class="copyright">
-                  Copyrights © 2025 Design By{" "}
+                  Copyrights © 2026 Design By{" "}
                   <a
                     href="https://pskitservices.com/"
                     style={{ textDecoration: "none" }}

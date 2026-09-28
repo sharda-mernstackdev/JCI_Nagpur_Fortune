@@ -13,7 +13,7 @@ const schemaMarkup = {
   description:
     "Join JCI Nagpur Fortune to empower youth, develop leadership skills, and drive positive change in your community through impactful events, training, and social initiatives.",
   keyword:
-    "fortune, jci, jci nagpur, Best LO, jci LO, jci in Nagpur, jci  LO in Nagpur, Best jci LO in Nagpur, Best jci LO in India, Best jci LO in Maharashtra, Best JCI LO, jci in Maharashtra, jci Events in Nagpur, jci Leadership Training, jci Nagpur Projects,jci member,youthpower,empoweryouth,Youth Empowerment Organization,JCI Nagpur Fortune, JCI Nagpur Fortune social impact, JCI Nagpur Fortune networking, JCI Nagpur fortune leadership development, JCI Nagpur community service, JCI Nagpur fortune community,JCI Nagpur fortune chapter , JCI Nagpur fortune membership,JCI Nagpur fortune training programs, JCI chapters in Maharashtra,Youth organizations in Nagpur,Leadership training in Nagpur,Community development Nagpur,Professional networking Nagpur,Youth leadership Nagpur,Social entrepreneurship Nagpur,Youth empowerment programs Nagpur,Leadership skills development,Professional growth opportunities,Community impact initiatives,Young leaders network,Business skills for youth,Personal development organization,CI Nagpur workshops,JCI Nagpur training programs,JCI Nagpur conferences,JCI Nagpur seminars,JCI Nagpur community projects,JCI Nagpur youth programs,JCI Nagpur skill development,JCI Nagpur entrepreneurship programs",
+    "best public speaking in Nagpur, JCI Nagpur Fortune, JCI Nagpur, JCI events Nagpur, JCI leadership training Nagpur, JCI training programs, JCI membership Nagpur, youth organization Nagpur, youth empowerment programs Nagpur, leadership training Nagpur, leadership development Nagpur, community development Nagpur, professional networking Nagpur, social entrepreneurship Nagpur, business skills for youth, personal development organization, JCI Nagpur projects, JCI Nagpur seminars, JCI Nagpur conferences, JCI Nagpur community projects, JCI Nagpur youth programs, communication skills training in Nagpur, public speaking classes in Sitabuldi Nagpur, personality development classes in Sitabuldi Nagpur, confidence building classes in Nagpur, soft skills training in Nagpur, stage fear removal classes in Nagpur, spoken English and public speaking Nagpur",
 
   aggregateRating: {
     "@type": "AggregateRating",
@@ -37,7 +37,7 @@ const schemaMarkup = {
   ],
   contactPoint: {
     "@type": "ContactPoint",
-    telephone: "+919975288300",
+    telephone: "+91-9422123343",
     contactType: "customer support",
   },
 };
@@ -163,19 +163,20 @@ function OurTeam() {
         <section className="volunter-section team-page-section">
           <div className="auto-container">
             <div className="row clearfix">
-              {/* prashant kadhao Block */}
+
+            {/* prashant kadhao Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/prashant kadhao.webp"
+                      src="images/team-new/Prashant_sir.webp"
                       alt="JC Prashant Kadhao - Founder President"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/prashant-kadhao"
+                          href="/team-new/Prashant_sir.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -213,23 +214,84 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/prashant-kadhao">
+                      <a href="/team-new/Prashant_sir.webp">
                         JFM Prashant Kadhao
                       </a>
                     </h3>
                     <div className="designation">
-                      FOUNDER PRESIDENT & PRESIDENT 2025
+                      IPP
                     </div>
                   </div>
                 </div>
               </div>
+
+
+                {/* Abhishek Tumsare Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/President.webp"
+                      alt="JC Abhishek Tumsare - Treasurer"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/President.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                        {/* Social Box */}
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="https://www.instagram.com/developerabhishek9300/" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/President.webp">
+                        JC ABHISHEK TUMSARE
+                      </a>
+                    </h3>
+                    <div className="designation">President 2026</div>
+                  </div>
+                </div>
+              </div>
+             
 
               {/* Gayatri Kadhao Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/gayatri kadhao (2).webp"
+                      src="images/team-new/secretary.webp"
                       alt="JC Gayatri Kadhao - Secretary"
                     />
                     <div className="overlay-box">
@@ -274,7 +336,7 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/gayatri-kadhao">
+                      <a href="images/team-new/secretary.webp">
                         JC Gayatri Kadhao
                       </a>
                     </h3>
@@ -283,78 +345,19 @@ function OurTeam() {
                 </div>
               </div>
 
-              {/* Abhishek Tumsare Block */}
+                   {/* Tanushree Dhote Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/abhishekh tumsare.webp"
-                      alt="JC Abhishek Tumsare - Treasurer"
+                      src="images/team-new/Tanushree.webp"
+                      alt="JC Tanushree Dhote - Treasure"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/abhishek-tumsare"
-                          className="link-btn"
-                        >
-                          <span className="icon flaticon-web-link"></span>
-                        </a>
-                        {/* Social Box */}
-                        <ul className="social-box">
-                          <li>
-                            <a href="#" aria-label="Facebook">
-                              <span className="fab fa-facebook-f"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Google Plus">
-                              <span className="fab fa-google-plus-g"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Skype">
-                              <span className="fab fa-skype"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="https://www.instagram.com/developerabhishek9300/" aria-label="Twitter">
-                              <span className="fab fa-instagram"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="LinkedIn">
-                              <span className="fab fa-linkedin-in"></span>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="lower-box">
-                    <h3>
-                      <a href="/team-member/abhishek-tumsare">
-                        JC ABHISHEK TUMSARE
-                      </a>
-                    </h3>
-                    <div className="designation">TREASURER</div>
-                  </div>
-                </div>
-              </div>
-
-              {/* Sharda Waghmare Block */}
-              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-                <div className="inner-box">
-                  <div className="image">
-                    <img
-                      src="images/team-images/sharda.png"
-                      alt="JC Sharda Waghmare - VPMO"
-                    />
-                    <div className="overlay-box">
-                      <div className="overlay-inner">
-                        <div className="text">Connect with them</div>
-                        <a
-                          href="/team-member/sharda-waghmare"
+                          href="/team-new/Tanushree.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -392,8 +395,68 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/sharda-waghmare">
-                        JC Sharda Waghmare
+                      <a href="/team-new/Tanushree.webp">
+                        JC Tanushree Dhote
+                      </a>
+                    </h3>
+                    <div className="designation">Treasure</div>
+                  </div>
+                </div>
+              </div>
+              
+
+              {/* Vaibhav Phate Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/VPMO.webp"
+                      alt="JC Vaibhav Phate - VPMO"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/VPMO.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                        {/* Social Box */}
+                        <ul className="social-box">
+                          <li>
+                            <a href="https://www.facebook.com/sharda.waghamare.1" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="https://shardawaghmare.in/" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="https://join.skype.com/invite/pI3ObrrRF4uu" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="https://www.instagram.com/webdev_sharda/?hl=en" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="https://www.linkedin.com/in/sharda-waghmare-805955218/" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/VPMO.webp">
+                        JC Vaibhav Phate
                       </a>
                     </h3>
                     <div className="designation">VPMO</div>
@@ -401,19 +464,19 @@ function OurTeam() {
                 </div>
               </div>
 
-              {/* ADITYA SUKHDEVE Block */}
+              {/* Sharda Waghmare Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/Aditya_sukhdeve.png"
-                      alt="JC ADITYA SUKHDEVE - VPCO"
+                      src="images/team-new/VPCO.webp"
+                      alt="JC SHARDA WAGHMARE - VPCO"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/aditya-sukhdeve"
+                          href="/team-new/VPCO.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -451,8 +514,8 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/aditya-sukhdeve">
-                        JC ADITYA SUKHDEVE
+                      <a href="/team-new/VPCO.webp">
+                        JC SHARDA WAGHMARE
                       </a>
                     </h3>
                     <div className="designation">VPCO</div>
@@ -460,19 +523,19 @@ function OurTeam() {
                 </div>
               </div>
 
-              {/* JC SHRILEKH SHRIKHANDE Block */}
+              {/* JC Apeksha Tumsare Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/Shrilekh  shrikhande.webp"
-                      alt="JC SHRILEKH SHRIKHANDE - VPG&D"
+                      src="images/team-new/apeksha.webp"
+                      alt="JC APEKSHA TUMSARE - VPG&D"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/shrilekh-shrikhande"
+                          href="/team-new/apeksha.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -510,8 +573,8 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/shrilekh-shrikhande">
-                        JC SHRILEKH SHRIKHANDE
+                      <a href="/team-new/apeksha.webp">
+                       JC APEKSHA TUMSARE 
                       </a>
                     </h3>
                     <div className="designation">VPG&D</div>
@@ -519,19 +582,19 @@ function OurTeam() {
                 </div>
               </div>
 
-              {/* JC MANSI BOPCHE Block */}
+              {/* JC BHAVESH DABHALE Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/mansi bopche.webp"
-                      alt="JC MANSI BOPCHE - VPPR"
+                      src="images/team-new/bhavesh.webp"
+                      alt="JC BHAVESH DABHALE - VPPR & Marketing"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/mansi-bopche"
+                          href="/team-new/bhavesh.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -569,26 +632,26 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/mansi-bopche">JC MANSI BOPCHE</a>
+                      <a href="/team-new/bhavesh.webp">JC BHAVESH DABHALE</a>
                     </h3>
-                    <div className="designation">VPPR</div>
+                    <div className="designation">VPPR & Marketing</div>
                   </div>
                 </div>
               </div>
 
-              {/* Dhanshree Joshi Block */}
+              {/* Amod Chaudhari Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/Dhanshree_Joshi.png"
-                      alt="JC Dhanshree Joshi - VPTR"
+                      src="images/team-new/VPTR.webp"
+                      alt="JC AMOD CHAUDHARI - VPTR"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/dhanshree-joshi"
+                          href="/team-new/VPTR.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -626,8 +689,8 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/dhanshree-joshi">
-                        JC Dhanshree Joshi
+                      <a href="/team-new/VPTR.webp">
+                        JC AMOD CHAUDHARI
                       </a>
                     </h3>
                     <div className="designation">VPTR</div>
@@ -635,13 +698,13 @@ function OurTeam() {
                 </div>
               </div>
 
-              {/* JC AMOD CHAUDHARI Block */}
+              {/* JC RAHUL PAREKAR Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/Amod (2).png"
-                      alt="JC AMOD CHAUDHARI - VPBO"
+                      src="images/team-new/VPBO.webp"
+                      alt="JC RAHUL PAREKAR - VPBO"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
@@ -649,7 +712,7 @@ function OurTeam() {
                           <strong>Connect with them</strong>
                         </div>
                         <a
-                          href="/team-member/amod-chaudhari"
+                          href="/team-new/VPBO.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -692,8 +755,8 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/amod-chaudhari">
-                        JC AMOD CHAUDHARI
+                      <a href="/team-new/VPBO.webp">
+                        JC RAHUL PAREKAR
                       </a>
                     </h3>
                     <div className="designation">VPBO</div>
@@ -701,19 +764,19 @@ function OurTeam() {
                 </div>
               </div>
 
-              {/* JC SANJANA KASHIMKAR Block */}
+              {/* JC JIGYASA SHEWARE Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/sanjana.jpg"
-                      alt="JC SANJANA KASHIMKAR - VPIN"
+                      src="images/team-new/VPIO.webp"
+                      alt="JC JIGYASA SHEWARE - VPIN"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/sanjana-kashimkar"
+                          href="/team-new/VPIO.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -751,28 +814,28 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/sanjana-kashimkar">
-                        JC SANJANA KASHIMKAR
+                      <a href="/team-new/VPIO.webp">
+                        JC JIGYASA SHEWARE
                       </a>
                     </h3>
-                    <div className="designation">VPIN</div>
+                    <div className="designation">VPIO</div>
                   </div>
                 </div>
               </div>
 
-              {/* JC ASHWINI THAKARE Block */}
-              {/* <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+               {/* JC Bhavana Ma'am Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/person1.png"
-                      alt="JC ASHWINI THAKARE - DITR"
+                      src="images/team-new/Bhavana_mam.webp"
+                      alt="JC Bhavana Talreja - Director Lady Jaycee"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/ashwini-thakare"
+                          href="/team-new/Bhavana_mam.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
@@ -810,125 +873,56 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/ashwini-thakare"> </a>
+                      <a href="/team-new/Bhavana_mam.webp"> </a>
+                      JC BHAVANA TALREJA
                     </h3>
-                    <div className="designation">DITR</div>
-                  </div>
-                </div>
-              </div> */}
-
-              {/* JC PRANAV BELORKAR */}
-              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-                <div className="inner-box">
-                  <div className="image">
-                    {/* <img src="images/team-images/pranav.png" alt="JC PRANAV BELORKAR - DIG&D" /> */}
-                    <img
-                      src="images/team-images/Pranav.png"
-                      alt="JC PRANAV BELORKAR - DIG&D"
-                    />
-
-                    <div className="overlay-box">
-                      <div className="overlay-inner">
-                        <div className="text">Connect with them</div>
-                        <a
-                          href="/team-member/pranav-belorkar"
-                          className="link-btn"
-                        >
-                          <span className="icon flaticon-web-link"></span>
-                        </a>
-                        {/* Social Box */}
-                        <ul className="social-box">
-                          {/* <li>
-                            <a href="#" aria-label="Facebook">
-                              <span className="fab fa-facebook-f"></span>
-                            </a>
-                          </li> */}
-                          <li>
-                            <a href="https://pranavbelorkar.in/" aria-label="Google Plus">
-                              <span className="fab fa-google-plus-g"></span>
-                            </a>
-                          </li>
-                          {/* <li>
-                            <a href="#" aria-label="Skype">
-                              <span className="fab fa-skype"></span>
-                            </a>
-                          </li> */}
-                          <li>
-                            <a href="https://www.instagram.com/pranavbelorkar.16/" aria-label="Instagram">
-                              <span className="fab fa-instagram"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="http://x.com/PranavB38116" aria-label="Twitter">
-                              <span className="fab fa-twitter"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="https://www.linkedin.com/in/pranav-belorkar-27a66324b/" aria-label="LinkedIn">
-                              <span className="fab fa-linkedin-in"></span>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="lower-box">
-                    <h3>
-                      <a href="/team-member/pranav-belorkar">
-                        JC PRANAV BELORKAR
-                      </a>
-                    </h3>
-                    <div className="designation">DIG&D</div>
+                    <div className="designation">Director Lady Jaycee</div>
                   </div>
                 </div>
               </div>
 
-              {/* JC SHUBHANGI TIJARE */}
+
+              {/* JC Ruchita Ma'am Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/shubhangi_tijare.png"
-                      alt="JC SHUBHANGI TIJARE - DICO"
+                      src="images/team-new/Ruchita_mam.webp"
+                      alt="JC Ruchita Mohata - Lady Jaycee"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/shubhangi-tijare"
+                          href="/team-new/Ruchita_mam.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
                         </a>
-                        {/* Social Box */}
+                      
                         <ul className="social-box">
-                          {/* <li>
+                          <li>
                             <a href="#" aria-label="Facebook">
                               <span className="fab fa-facebook-f"></span>
                             </a>
-                          </li> */}
+                          </li>
                           <li>
-                            <a href="https://shubhangitijare.in/" aria-label="Google Plus">
+                            <a href="#" aria-label="Google Plus">
                               <span className="fab fa-google-plus-g"></span>
                             </a>
                           </li>
-                          {/* <li>
+                          <li>
                             <a href="#" aria-label="Skype">
                               <span className="fab fa-skype"></span>
                             </a>
-                          </li> */}
+                          </li>
                           <li>
-                            <a href="https://www.instagram.com/shubhangi_tijare/" aria-label="Instagram">
+                            <a href="#" aria-label="Twitter">
                               <span className="fab fa-instagram"></span>
                             </a>
                           </li>
                           <li>
-                            <a href="https://x.com/ShubhangiT72993" aria-label="Twitter">
-                              <span className="fab fa-twitter"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="https://www.linkedin.com/in/shubhangi-tijare/" aria-label="LinkedIn">
+                            <a href="#" aria-label="LinkedIn">
                               <span className="fab fa-linkedin-in"></span>
                             </a>
                           </li>
@@ -938,170 +932,117 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/shubhangi-tijare">
-                        JC SHUBHANGI TIJARE
-                      </a>
+                      <a href="/team-new/Ruchita_mam.webp"> </a>
+                      JC RUCHITA MOHATA
+                    </h3>
+                    <div className="designation">DIMO</div>
+                  </div>
+                </div>
+              </div>
+
+
+            
+               {/* JC AKHILA PATIL  Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/Akhila.webp"
+                      alt="AKHILA PATIL - DICO"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/Akhila.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/Akhila.webp"> </a>
+                      JC AKHILA PATIL
                     </h3>
                     <div className="designation">DICO</div>
                   </div>
                 </div>
               </div>
 
-              {/* JC KHUSHI DIWAN */}
-              {/* <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-                <div className="inner-box">
-                  <div className="image">
-                    <img
-                      src="images/team-images/person1.png"
-                      alt="JC KHUSHI DIWAN - DIMO"
-                    />
-                    <div className="overlay-box">
-                      <div className="overlay-inner">
-                        <div className="text">Connect with them</div>
-                        <a
-                          href="/team-member/khushi-diwan"
-                          className="link-btn"
-                        >
-                          <span className="icon flaticon-web-link"></span>
-                        </a>
-                       
-                        <ul className="social-box">
-                          <li>
-                            <a href="#" aria-label="Facebook">
-                              <span className="fab fa-facebook-f"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Google Plus">
-                              <span className="fab fa-google-plus-g"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Skype">
-                              <span className="fab fa-skype"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Twitter">
-                              <span className="fab fa-instagram"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="LinkedIn">
-                              <span className="fab fa-linkedin-in"></span>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="lower-box">
-                    <h3>
-                      <a href="/team-member/khushi-diwan"> </a>
-                    </h3>
-                    <div className="designation">DIMO</div>
-                  </div>
-                </div>
-              </div> */}
+              
 
-              {/* JC DEVANSHU GOTE */}
-              {/* <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-                <div className="inner-box">
-                  <div className="image">
-                    <img
-                      src="images/team-images/person1.png"
-                      alt="JC DEVANSHU GOTE - DIBO"
-                    />
-                    <div className="overlay-box">
-                      <div className="overlay-inner">
-                        <div className="text">Connect with them</div>
-                        <a
-                          href="/team-member/devanshu-gote"
-                          className="link-btn"
-                        >
-                          <span className="icon flaticon-web-link"></span>
-                        </a>
-                       
-                        <ul className="social-box">
-                          <li>
-                            <a href="#" aria-label="Facebook">
-                              <span className="fab fa-facebook-f"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Google Plus">
-                              <span className="fab fa-google-plus-g"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Skype">
-                              <span className="fab fa-skype"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="Twitter">
-                              <span className="fab fa-instagram"></span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" aria-label="LinkedIn">
-                              <span className="fab fa-linkedin-in"></span>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="lower-box">
-                    <h3>
-                      <a href="/team-member/devanshu-gote"> </a>
-                    </h3>
-                    <div className="designation">DIBO</div>
-                  </div>
-                </div>
-              </div> */}
-
-              {/* JC tanushri dhote */}
+              {/* JC Kirti Tagde mam Block */}
               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div className="inner-box">
                   <div className="image">
                     <img
-                      src="images/team-images/tanushri.webp"
-                      alt="JC tanushri dhote - DIRECTOR LADY JAYCEE"
+                      src="images/team-new/kirti_mam.webp"
+                      alt="JC Kirtishubha Tagade - DITR"
                     />
                     <div className="overlay-box">
                       <div className="overlay-inner">
                         <div className="text">Connect with them</div>
                         <a
-                          href="/team-member/tanushri-dhote"
+                          href="/team-new/kirti_mam.webp"
                           className="link-btn"
                         >
                           <span className="icon flaticon-web-link"></span>
                         </a>
-                        {/* Social Box */}
+                      
                         <ul className="social-box">
-                          {/* <li>
+                          <li>
                             <a href="#" aria-label="Facebook">
                               <span className="fab fa-facebook-f"></span>
                             </a>
-                          </li> */}
+                          </li>
                           <li>
-                            <a href="https://tanushri.vercel.app/" aria-label="Google Plus">
+                            <a href="#" aria-label="Google Plus">
                               <span className="fab fa-google-plus-g"></span>
                             </a>
                           </li>
                           <li>
-                            <a href="https://join.skype.com/invite/vWBkY6uCsNdT" aria-label="Skype">
+                            <a href="#" aria-label="Skype">
                               <span className="fab fa-skype"></span>
                             </a>
                           </li>
                           <li>
-                            <a href="https://www.instagram.com/tanushri__22/" aria-label="Twitter">
+                            <a href="#" aria-label="Twitter">
                               <span className="fab fa-instagram"></span>
                             </a>
                           </li>
                           <li>
-                            <a href="https://www.linkedin.com/in/tanushri-dhote-b4ab15298/" aria-label="LinkedIn">
+                            <a href="#" aria-label="LinkedIn">
                               <span className="fab fa-linkedin-in"></span>
                             </a>
                           </li>
@@ -1111,14 +1052,427 @@ function OurTeam() {
                   </div>
                   <div className="lower-box">
                     <h3>
-                      <a href="/team-member/tanushri-dhote">
-                        JC TANUSHRI DHOTE
-                      </a>
+                      <a href="/team-new/kirti_mam.webp"> </a>
+                      JC KIRTISUBHA TAGADE
                     </h3>
-                    <div className="designation">DIRECTOR LADY JAYCEE</div>
+                    <div className="designation">DITR</div>
                   </div>
                 </div>
               </div>
+
+               {/* JC Amol Chobutkar sir Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/amol_sir.webp"
+                      alt="JC Amol Chobutkar - DIBO"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/amol_sir.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/amol_sir.webp"> </a>
+                      JC AMOL CHOBUTKAR
+                    </h3>
+                    <div className="designation">DIBO</div>
+                  </div>
+                </div>
+              </div>
+
+              {/* JC Rahul Sonule sir Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/rahul_sir.webp"
+                      alt="JC Rahul Sonule - LO Officer"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/rahul_sir.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/rahul_sir.webp"> </a>
+                      JC RAHUL SONULE
+                    </h3>
+                    <div className="designation">LO Officer</div>
+                  </div>
+                </div>
+              </div>
+
+           {/* JC Yogesh Wagh sir Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/yogesh_sir.webp"
+                      alt="JC Yogesh Wagh - Buttentin Editor"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/yogesh_sir.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/yogesh_sir.webp"> </a>
+                      JC YOGESH WAGH
+                    </h3>
+                    <div className="designation">Buttentin Editor</div>
+                  </div>
+                </div>
+              </div>
+
+            
+             
+             
+
+               {/* JC Rameshwary Ma'am Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/rameshwari_mam.webp"
+                      alt="JC Rameshwary Bamohare - Co-Buttentin Editor"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/rameshwari_mam.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/rameshwari_mam.webp"> </a>
+                      JC RAMESHWARY BAMOHARE
+                    </h3>
+                    <div className="designation">Co-Buttentin Editor</div>
+                  </div>
+                </div>
+              </div>
+
+               {/* JC JIVIKA KADHAO Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/Jivika.webp"
+                      alt="JEEVIKA KADHAO - Junior Jacyee"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/Jivika.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/Jivika.webp"> </a>
+                      JC JEEVIKA KADHAO
+                    </h3>
+                    <div className="designation">Junior Jacyee</div>
+                  </div>
+                </div>
+              </div>
+              
+
+                {/* JC KARTIK  DABHALE Block */}
+              <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/dirmangement.webp"
+                      alt="KARTIK DABHALE - Member"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/dirmangement.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/dirmangement.webp"> </a>
+                      JC KARTIK DABHALE
+                    </h3>
+                    <div className="designation">Member</div>
+                  </div>
+                </div>
+              </div>
+
+               {/* Kanchan Upase */}
+               <div className="volunter-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="inner-box">
+                  <div className="image">
+                    <img
+                      src="images/team-new/person1.webp"
+                      alt="KANCHAN UPASE - Member"
+                    />
+                    <div className="overlay-box">
+                      <div className="overlay-inner">
+                        <div className="text">Connect with them</div>
+                        <a
+                          href="/team-new/dirmangement.webp"
+                          className="link-btn"
+                        >
+                          <span className="icon flaticon-web-link"></span>
+                        </a>
+                      
+                        <ul className="social-box">
+                          <li>
+                            <a href="#" aria-label="Facebook">
+                              <span className="fab fa-facebook-f"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Google Plus">
+                              <span className="fab fa-google-plus-g"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Skype">
+                              <span className="fab fa-skype"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="Twitter">
+                              <span className="fab fa-instagram"></span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#" aria-label="LinkedIn">
+                              <span className="fab fa-linkedin-in"></span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="lower-box">
+                    <h3>
+                      <a href="/team-new/person1.webp"> </a>
+                      KANCHAN UPASE
+                    </h3>
+                    <div className="designation">Member</div>
+                  </div>
+                </div>
+              </div>
+
+
+             
             </div>
           </div>
         </section>
@@ -1153,7 +1507,7 @@ function OurTeam() {
                         `Hello Sir/Ma'am, I have a query regarding: ${question}`
                       );
                       window.open(
-                        `https://wa.me/919975288300?text=${message}`,
+                        `https://wa.me/919422123343?text=${message}`,
                         "_blank"
                       );
                     };
